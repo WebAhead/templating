@@ -18,7 +18,7 @@ To acheive **4**, compare `hbs` with `final` folder to see how you don't have to
 
 ### How to run
 
-1. `git clone git@github.com:m4v15/templating.git && cd templating`
+1. `git clone git@github.com:WebAhead/templating.git && cd templating`
 2. `npm i`
 3. Make a `.env` file and add a postgres database url as DB_URL
 4. Build the database: `node database/db_build.js`
